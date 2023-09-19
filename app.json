@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "job-connX",
-    "slug": "job-connX"
+    "slug": "job-connX",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.job-connX"
+    }
   }
 }
